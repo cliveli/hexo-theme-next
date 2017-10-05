@@ -27,7 +27,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "Clive Li, Java, JavaScript"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -352,8 +352,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: clivedevlog
   count: true
 
 # Hypercomments
@@ -415,9 +415,9 @@ valine:
 #           Technorati,Posterous,Tumblr,GoogleBookmarks,Newsvine,
 #           Evernote,Friendfeed,Vkontakte,Odnoklassniki,Mailru
 needmoreshare2:
-  enable: false
+  enable: true
   postbottom: 
-    enable: false
+    enable: true
     options:
       iconStyle: box
       boxForm: horizontal
@@ -765,3 +765,5 @@ images: images
 
 # Theme version
 version: 5.1.3
+
+
